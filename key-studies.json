@@ -1,0 +1,87 @@
+{
+  "recruiting_trials": [
+    {
+      "nct_id": "NCT06134167",
+      "title": "Transdermal Compress Device for Transfemoral Amputations",
+      "acronym": "BAL-448-001",
+      "status": "RECRUITING",
+      "sponsor": "Balmoral Medical company",
+      "sponsor_type": "INDUSTRY",
+      "fda_regulated": true,
+      "study_type": "INTERVENTIONAL",
+      "phase": "NA",
+      "enrollment": 100,
+      "start_date": "2024-06-11",
+      "completion_date": "2031-06",
+      "conditions": ["Prosthesis and Implants"],
+      "intervention": "Transdermal Compress Device",
+      "location": "United States (multicenter)",
+      "description": "Prospective, multicenter, single-arm, open-label study evaluating safety and effectiveness of the Transdermal Compress device in participants with transfemoral limb loss. Bone-anchored transdermal implant for patients who cannot use conventional socket prostheses. 5-year follow-up with Osseointegration Quality Registry.",
+      "key_outcomes": [
+        "Composite endpoint: prosthetic wear time + PROMIS Physical Function + OPUS Satisfaction at 2 years",
+        "Infection rate (superficial and deep) at 2 and 5 years",
+        "Lack of secondary surgical intervention",
+        "Radiographic success"
+      ]
+    },
+    {
+      "nct_id": "NCT06498245",
+      "title": "MPK-K2: Microprocessor Knee for K2-Level Ambulators",
+      "acronym": "MPK-K2",
+      "status": "RECRUITING",
+      "sponsor": "University Hospital, Strasbourg, France",
+      "sponsor_type": "OTHER",
+      "study_type": "INTERVENTIONAL",
+      "phase": null,
+      "enrollment": null,
+      "start_date": null,
+      "completion_date": null,
+      "conditions": ["Prosthetic Rehabilitation"],
+      "intervention": "Microprocessor prosthetic knee",
+      "location": "France",
+      "description": "Randomized controlled trial comparing microprocessor prosthetic knees to conventional knees for community ambulators (K-level 2). Evaluates functional outcomes, satisfaction, and mobility.",
+      "key_outcomes": [
+        "Functional mobility assessment",
+        "Prosthetic satisfaction scales",
+        "Adverse event rates"
+      ]
+    }
+  ],
+  "completed_trials": [
+    {
+      "nct_id": "NCT07519746",
+      "title": "PROINGA: Satisfaction and Quality of Life Among Prosthetic Users in Gaza Governorate",
+      "status": "COMPLETED",
+      "sponsor": "Yeditepe University / Al-Azhar Gaza",
+      "sponsor_type": "OTHER",
+      "study_type": "OBSERVATIONAL",
+      "enrollment": 128,
+      "start_date": "2024",
+      "completion_date": "2025",
+      "conditions": ["Prosthetic Satisfaction"],
+      "location": "Gaza, Palestine",
+      "instruments": ["SAT-PRO", "PEQ", "TAPES", "EQ-5D-5L", "SWLS"],
+      "description": "Cross-sectional observational study of prosthetic satisfaction and quality of life among lower limb prosthetic users in Gaza. Examines relationship between device satisfaction and subjective well-being."
+    },
+    {
+      "nct_id": "NCT06498245",
+      "title": "Early Abdominal Wall Prosthesis Infections: Epidemiology (AWPI)",
+      "status": "COMPLETED",
+      "sponsor": "University Hospital, Strasbourg, France",
+      "sponsor_type": "OTHER",
+      "study_type": "OBSERVATIONAL",
+      "enrollment": 500,
+      "start_date": "2023-10",
+      "completion_date": "2024-10",
+      "conditions": ["Abdominal Wall Prosthesis Infections"],
+      "location": "Strasbourg, France",
+      "description": "Retrospective study on ~500 patients researching characteristics of prosthetic infections (microorganism, site, timing), factors linked to appearance, and optimization of management."
+    }
+  ],
+  "metadata": {
+    "total_studies": 644,
+    "data_source": "ClinicalTrials.gov API",
+    "generated": "2026-07-15",
+    "query_terms": ["prosthetic", "amputation", "prosthetic limb", "prosthetic rehabilitation"]
+  }
+}
