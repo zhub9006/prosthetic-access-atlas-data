@@ -1,0 +1,48 @@
+[
+  {
+    "nct_id": "NCT07519746",
+    "title": "Satisfaction and Quality of Life Among Prosthetic Users in Gaza Governorate",
+    "official_title": "Patient Satisfaction and Quality of Life Among Lower Limb Prosthetic Users in Gaza Governorate During Gaza War",
+    "acronym": "PROINGA",
+    "status": "COMPLETED",
+    "study_type": "OBSERVATIONAL",
+    "enrollment": 128,
+    "start_date": "2025-09-01",
+    "completion_date": "2026-03-25",
+    "sponsor": "Yeditepe University",
+    "collaborators": ["Al-Azhar University - Gaza"],
+    "location": {
+      "facility": "Gaza hospitals",
+      "city": "Gaza",
+      "country": "Palestinian Territories",
+      "latitude": 31.50161,
+      "longitude": 34.46672
+    },
+    "conditions": ["Amputation", "Prosthesis User", "Satisfaction", "Quality of Life"],
+    "primary_outcomes": [
+      {
+        "measure": "Satisfaction With Life Scale (SWLS)",
+        "time_frame": "Baseline (one-time assessment)"
+      },
+      {
+        "measure": "Prosthetic satisfaction",
+        "time_frame": "Baseline (one-time assessment)"
+      }
+    ],
+    "secondary_outcomes": [
+      {
+        "measure": "Quality of life (WHOQOL-BREF)",
+        "time_frame": "Baseline (one-time assessment)"
+      },
+      {
+        "measure": "Health-related quality of life (EQ-5D-5L)",
+        "time_frame": "Baseline (one-time assessment)"
+      }
+    ],
+    "eligibility": {
+      "minimum_age": "18 Years",
+      "sex": "ALL",
+      "sampling_method": "NON_PROBABILITY_SAMPLE"
+    }
+  }
+]
